@@ -8,8 +8,8 @@ import { AppInstallBanner } from "@/components/app-install-banner"
 import { PWARegister } from "@/components/pwa-register"
 
 export const metadata: Metadata = {
-  title: "Home | Digital Business Card NFT",
-  description: "Create and mint your digital business card as an NFT",
+  title: "Home | AetherX",
+  description: "Drive results with AI Agent and blockchain powered workflows, analytics, and digital networking." 
 }
 
 export default function HomePage() {
@@ -26,7 +26,7 @@ export default function HomePage() {
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2 max-w-[600px]">
                   <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                    Digital Business Cards as NFTs
+                    AI & Blockchain Optimizations
                   </h1>
                   <p className="text-gray-500 md:text-xl dark:text-gray-400 mt-4">
                     Create stunning digital business cards, mint them as NFTs on the Base blockchain, and download them

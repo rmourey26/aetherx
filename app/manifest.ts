@@ -2,9 +2,9 @@ import type { MetadataRoute } from "next"
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "AetherX - Digital Business Cards",
+    name: "AetherX - AI & Blockchain Optimizations",
     short_name: "AetherX",
-    description: "Create and mint your digital business card as an NFT",
+    description: "Drive results with AI Agent and blockchain powered workflows, analytics, and digital networking.",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",

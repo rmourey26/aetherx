@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: "AetherX",
-    title: "AetherX - Digital Business Cards",
+    title: "AetherX - AI & Blockchain Optimizations",
     description: "Create and mint your digital business card as an NFT",
   },
 }
